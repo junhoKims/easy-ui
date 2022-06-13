@@ -1,0 +1,9 @@
+{
+  "name": "easy-ui",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "https://github.com/junhoKims/easy-ui.git",
+  "author": "<kraksin12@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
