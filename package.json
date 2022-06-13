@@ -5,5 +5,12 @@
   "repository": "https://github.com/junhoKims/easy-ui.git",
   "author": "<kraksin12@gmail.com>",
   "license": "MIT",
-  "private": true
+  "private": true,
+  "scripts": {
+    "build": "rollup --config",
+    "watch": "rollup --config --watch"
+  },
+  "devDependencies": {
+    "rollup": "^2.75.6"
+  }
 }
